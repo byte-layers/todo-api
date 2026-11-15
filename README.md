@@ -5,7 +5,7 @@ Une petite API de tâches en Node.js, sans dépendance : le projet fil rouge des
 
 ```bash
 npm test     # lance les tests (node --test)
-npm start    # démarre l'API sur http://localhost:3000
+npm start    # démarre l'API sur http://localhost:3000 (lit .env s'il existe)
 ```
 
 | Route | Rôle |
