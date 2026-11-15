@@ -1,0 +1,13 @@
+{
+  "name": "todo-api",
+  "version": "1.0.0",
+  "description": "Une petite API de tâches en Node.js, projet fil rouge des contenus byte_layers sur le développement avec un agent d'IA",
+  "type": "module",
+  "private": true,
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
